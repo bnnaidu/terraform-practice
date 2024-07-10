@@ -1,0 +1,7 @@
+# terraform config directory
+
+.terraform
+
+terraform.tfstate
+
+terraform.tfstate.*
